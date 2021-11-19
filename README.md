@@ -9,8 +9,8 @@
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about Web dev related Stuff
 - ⭐️ My Hobbies include Coding, Movies & Music
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/danish-faisal/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishfaisal.wwe@gmail.com)](mailto:danishfaisal.wwe@gmail.com)
+- 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/danish-faisal/) 
+,  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishfaisal.wwe@gmail.com)](mailto:danishfaisal.wwe@gmail.com)
 
 ## Some Statistics About Me
 ![Danish's github stats](https://github-readme-stats.vercel.app/api?username=danish-faisal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
