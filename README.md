@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=danish-faisal" alt="danish-faisal" /> </p>
 
 - 🔭 I’m currently working at NCR Corporation as a Test Engineer
-- 🌱 I’m currently learning React & Node
+- 🌱 I’m learning React & Node
 - 👯 I’m looking to collaborate on MERN stack projects
 - 💬 Ask me about Web dev related Stuff
 - ⭐️ My Hobbies include Coding, Movies & Music
