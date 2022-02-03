@@ -7,6 +7,7 @@
 - 🔭 I’m currently working at NCR Corporation as a Test Engineer
 - 🌱 I’m learning React & Node
 - 👯 I’m looking to collaborate on MERN stack projects
+- 👨‍💻 I'm trying to become a Full-Stack Developer
 - 💬 Ask me about Web dev related Stuff
 - ⭐️ My Hobbies include Coding, Movies & Music
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/danish-faisal/) 
