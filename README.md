@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hello, I'm Danish Faisal 👋 </h1>
-<h3 align="center">🚀 Software Developer 🚀</h3>
+<h3 align="center">🚀 Software Engineer 🚀</h3>
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=danish-faisal" alt="danish-faisal" /> </p>
 
