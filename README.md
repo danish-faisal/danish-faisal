@@ -8,7 +8,7 @@
 - 🌱 I’m learning ReactJS, NodeJS, Express & MongoDB
 - 👯 I’m looking to collaborate on MERN stack projects
 - 👨‍💻 I'm trying to become a Full-Stack Web Developer
-- 💬 Ask me about Web dev related Stuff
+- 💬 Ask me about Web dev related stuff
 - ⭐️ My Hobbies include Coding, Movies & Music
 - 📫 Reach out to me:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/danish-faisal/) 
 ,  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishfaisal.wwe@gmail.com)](mailto:danishfaisal.wwe@gmail.com)
