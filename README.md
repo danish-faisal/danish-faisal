@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Software Engineer 🚀</h3>
 
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=danish-faisal" alt="danish-faisal" /> </p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=danish-faisal" alt="danish-faisal" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danish-faisal" alt="danish-faisal" /> </p>
 
 - 🔭 I’m currently working at NCR Corporation as a Test Engineer
 - 🌱 I’m learning React JS, Node JS, Express & MongoDB
