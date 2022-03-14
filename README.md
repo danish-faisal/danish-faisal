@@ -14,6 +14,8 @@
 ,  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danishfaisal.wwe@gmail.com)](mailto:danishfaisal.wwe@gmail.com)
 
 ## Some Statistics About Me
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danish-faisal&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![Danish's github stats](https://github-readme-stats.vercel.app/api?username=danish-faisal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
 
 ![Top langs used](https://github-readme-stats.vercel.app/api/top-langs?username=danish-faisal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)<br>
